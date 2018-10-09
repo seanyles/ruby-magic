@@ -1,0 +1,19 @@
+{
+  "name": "ruby-magic",
+  "version": "1.0.0",
+  "description": "Ruby built-ins in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanyles/ruby-magic.git"
+  },
+  "author": "Sean Ylescupidez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanyles/ruby-magic/issues"
+  },
+  "homepage": "https://github.com/seanyles/ruby-magic#readme"
+}
